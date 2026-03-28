@@ -59,7 +59,7 @@ if st.button("🚀 Predict"):
         prediction = model.predict(vectorized)[0]
         prob = model.predict_proba(vectorized)[0][1]
 
-        st.divider()
+        st.markdown("---")
 
         st.write("🧹 Cleaned Text:", cleaned)
 
