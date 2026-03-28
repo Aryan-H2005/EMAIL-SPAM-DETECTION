@@ -1,6 +1,6 @@
 # 📧 Spam Email Detection System
 
-🚀 **Live Demo:** https://your-app-link.streamlit.app  
+🚀 **Live Demo:** https://aryan-spam-detector.streamlit.app/
 
 
 ## 🚀 Overview
