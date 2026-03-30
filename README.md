@@ -5,7 +5,7 @@
 
 ## 🚀 Overview
 
-An end-to-end **Spam Detection System** that classifies messages as **Spam or Not Spam** using Natural Language Processing (NLP) and Machine Learning.
+An end-to-end **Spam Detection System** that classifies messages as **Spam or Not Spam** using Machine Learning.
 
 The system processes raw text input, applies preprocessing techniques, and uses a trained model to predict whether the message is spam in real-time via an interactive Streamlit web application.
 
